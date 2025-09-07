@@ -2,10 +2,10 @@
 title: Contact
 logo: img/samurai_path.png
 contact_entries:
-  - heading: Location
-    text: 3153 Lynn Avenue, South San Francisco, California 94080
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: адрес
+    text: 246012, Re4itsky, 61
+  - heading: раб. время
+    text: пн-сб 9:00 - 18:00, выходной воскресенье
 ---
 
 We’d love to get in touch with you and hear your ideas and
