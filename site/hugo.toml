@@ -1,7 +1,7 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Kaldi"
+languageCode = "ru-ru"
+languageLang = "ru"
+title = "ophil netlify site with decap cms"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
@@ -10,3 +10,4 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
 images = ["img/og-image.jpg"]
+
